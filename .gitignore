@@ -1,0 +1,9 @@
+# Intellij
+.idea/
+
+# Generated files
+bin/
+out/
+
+# build related files
+build/
